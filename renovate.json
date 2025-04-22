@@ -8,5 +8,8 @@
       "groupName": "minor updates",
       "matchUpdateTypes": ["minor", "patch"]
     }
-  ]
+  ],
+  "constraints": {
+    "python": "3.30.7"
+  }
 }

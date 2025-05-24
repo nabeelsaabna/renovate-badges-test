@@ -4,11 +4,11 @@
   "version": "0.0.0-semantic-release",
   "type": "commonjs",
   "engines": {
-    "node": "^20.15.1",
+    "node": "^22.0.0",
     "pnpm": "^9.0.0"
   },
   "volta":{
-    "node": "20.18.0",
+    "node": "22.16.0",
     "pnpm": "9.12.2"
   },
   "dependencies": {

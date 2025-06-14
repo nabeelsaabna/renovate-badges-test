@@ -17,13 +17,13 @@
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-api</artifactId>
-            <version>1.7.30</version>
+            <version>1.7.36</version>
         </dependency>
        
         <dependency>
           <groupId>org.apache.maven</groupId>
           <artifactId>apache-maven</artifactId>
-          <version>3.9.2</version>
+          <version>3.9.10</version>
           <type>pom</type>
         </dependency>
     </dependencies>
